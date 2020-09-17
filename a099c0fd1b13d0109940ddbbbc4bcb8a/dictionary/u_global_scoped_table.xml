@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Global Scoped Table" max_length="40" name="u_global_scoped_table" type="collection">
+        <element label="Test" max_length="40" name="u_test" type="string"/>
+    </element>
+</database>
